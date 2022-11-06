@@ -15,7 +15,7 @@
           <div class="container mx-auto flex justify-between">
                  <h1 class="text-3xl font-black"> Devstagram </h1>
           </div>
-          <p> Nuevos cambios en el proyecto de Laravel </p>
+          <p> Nuevos cambios en el proyecto de Laravel </p> sdafasdf
           <nav>
                 <a class="font-bold uppercase text-gray-600 text-sm" href="#">Login</a>
                 <a class="font-bold uppercase text-gray-600 text-sm" href="#">Crear Cuenta </a>
